@@ -734,7 +734,7 @@ export default function App() {
                   />
                 </svg>
               </button>
-              <h1 className="text-xl font-bold text-gray-800">UniPrep</h1>
+              <h1 className="text-xl font-bold text-gray-800">CareerWise</h1>
             </div>
             <div className="flex items-center space-x-2">
               <div className="flex items-center space-x-1 bg-orange-100 px-3 py-1 rounded-full">
