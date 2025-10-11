@@ -6,6 +6,6 @@ import CareerWisePresentation from './CareerWisePresentation.jsx'
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
-    <CareerWisePresentation/>
-  </StrictMode>,
+    <App/>
+  </StrictMode>
 )
